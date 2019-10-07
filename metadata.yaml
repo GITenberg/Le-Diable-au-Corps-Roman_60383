@@ -1,0 +1,32 @@
+_repo: Le-Diable-au-Corps-Roman_60383
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Radiguet, Raymond
+    birthdate: 1903
+    deathdate: 1923
+    gutenberg_agent_id: '50940'
+    url: http://www.gutenberg.org/2009/agents/50940
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Raymond_Radiguet
+    - https://fr.wikipedia.org/wiki/Raymond_Radiguet
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2019-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60383'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Le Diable au Corps: Roman'
+url: http://www.gutenberg.org/ebooks/60383
